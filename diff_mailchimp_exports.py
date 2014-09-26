@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 '''
-Author: Kevin Baker (kbaker@tcd.ie)
+Author: Kevin Baker (bakerke@tcd.ie)
 Usage: ./diff_mailchimp_exports.py << old list >> << new list >>
 
 You can use this script to diff two Mailchimp csv exports
